@@ -14,3 +14,8 @@ A fundamental "Hello, World!" application built with Jetpack Compose. This proje
 ## Purpose
 
 This repository demonstrates the basic setup and file structure of a Jetpack Compose project.
+
+## Screenshots
+
+![Jetpack Compose Demo Screenshot](screenshots/compose-screenshot.png)
+
